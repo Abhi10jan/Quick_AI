@@ -17,8 +17,8 @@ Quickgen.ai is a modern AI SaaS application built on the **PERN stack** (Postgre
 
 ## 🎨 Figma Design
 
-[![Figma Design Preview](https://i.imgur.com/7e6TjXZ.png)](https://figma.com/design/AFlvuDrbIKBsQTI75HHOC9/QuickAI?node-id=0-1&p=f)  
-*Click the image above to open the Figma design.*
+(https://figma.com/design/AFlvuDrbIKBsQTI75HHOC9/QuickAI?node-id=0-1&p=f)  
+*Click the link above to open the Figma design.*
 
 ---
 
