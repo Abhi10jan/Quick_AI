@@ -9,16 +9,12 @@ import RemoveBackground from "./pages/RemoveBackground";
 import RemoveObject from "./pages/RemoveObject";
 import ReviewResume from "./pages/ReviewResume";
 import Community from "./pages/Community";
-import { useAuth } from "@clerk/clerk-react";
-import { useEffect } from "react";
-const App = () => {
+import { Toaster } from "react-hot-toast";
 
-  const {getToken} = useAuth()
-    useEffect(()=>{
-        getToken().then((token)=>console.log(token));
-  },[])
+const App = () => {
   return (
     <div >
+      <Toaster />
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/ai' element={<Layout />} >
