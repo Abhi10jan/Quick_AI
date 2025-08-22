@@ -22,7 +22,7 @@ Quickgen.ai is a modern AI SaaS application built on the **PERN stack** (Postgre
 
 ---
 
-## 🔗 Live Demo : [View Live Demo](https://quickgenai-smr.vercel.app/)
+## 🔗 Live Demo : [View Live Demo](https://quick-ai-sable-delta.vercel.app/)
 
 ---
 
